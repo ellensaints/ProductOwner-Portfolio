@@ -1,0 +1,47 @@
+.certifications {
+  margin: 10px 0;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.certifications h2 {
+  color: #333; /* Cor do título */
+}
+
+.certification-list {
+  list-style: none; /* Remove marcadores da lista */
+  padding: 0; /* Remove padding */
+  display: flex; /* Usa flexbox */
+  flex-wrap: wrap; /* Permite quebrar linhas */
+  justify-content: space-around; /* Espaçamento uniforme entre itens */
+}
+
+.certification-list li {
+  margin: 20px; /* Espaçamento entre certificados */
+  flex: 0 1 calc(50% - 40px); /* 2 certificados por linha, menos margem */
+  text-align: center; /* Centraliza o texto */
+}
+
+.certification-image {
+  width: 90px; /* Ajuste o tamanho conforme necessário */
+  height: 90px; /* Mantém as proporções */
+  border-radius: 50%; /* Faz a imagem ficar redonda */
+  object-fit: cover; /* Garante que a imagem se ajuste bem */
+  margin: 1px; /* Margem interna para espaçamento */
+}
+
+.certification-list a {
+  text-decoration: none; /* Remove o sublinhado */
+  color: inherit; /* Mantém a cor do texto do título */
+}
+
+.certification-list a:hover {
+  text-decoration: underline; /* Opcional: adiciona sublinhado ao passar o mouse */
+  color: #6a0dad; /* Opcional: muda a cor ao passar o mouse */
+}
+
+.certification-list p {
+  margin: 5px 0; /* Ajusta a margem superior e inferior */
+}

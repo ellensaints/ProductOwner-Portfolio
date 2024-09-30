@@ -1,0 +1,41 @@
+.experience {
+  margin: 10px 0;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.experience h2 {
+  color: #333; /* Cor do título */
+}
+
+.experience-list {
+  list-style: none; /* Remove marcadores da lista */
+  padding: 0; /* Remove padding */
+}
+
+.experience-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Espaçamento entre experiências */
+}
+
+.company-logo {
+  width: 60px; /* Ajuste o tamanho conforme necessário */
+  height: 60px; /* Mantém as proporções */
+  border-radius: 50%; /* Faz a imagem ficar redonda */
+  margin-right: 15px; /* Espaço entre a imagem e o texto */
+}
+
+.experience-details {
+  flex-grow: 1; /* Permite que os detalhes ocupem o restante do espaço */
+}
+
+.experience-details h3 {
+  margin: 0; /* Remove margem superior e inferior */
+}
+
+.experience-details p {
+  margin: 5px 0; /* Ajusta a margem superior e inferior */
+}

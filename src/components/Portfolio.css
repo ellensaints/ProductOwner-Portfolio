@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.portfolio {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.header {
+  background-image: url('image.jpeg'); /* Substitua pelo caminho da imagem de fundo */
+  background-size: cover;
+  color: rgb(23, 79, 163);
+  padding: 40px 0;
+  display: flex; /* Alinha os itens em linha */
+  align-items: center; /* Alinha verticalmente */
+}
+
+.profile-photo {
+  width: 150px; /* Ajuste conforme necessário */
+  border-radius: 50%; /* Arredondar a foto */
+  border: 3px solid #dbdadb; /* Borda branca */
+  margin-right: 10px; /* Reduz espaço à direita */
+  margin-left: 20px; /* Reduz espaço à esquerda */
+  filter: grayscale(30%); /* Ajuste o valor conforme necessário */
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column; /* Alinha os títulos em coluna */
+  justify-content: center; /* Centraliza verticalmente */
+}
+
+h1 {
+  margin: 0; /* Remove margem padrão */
+}
+
+h3 {
+  margin: 5px 0; /* Espaçamento acima e abaixo */
+  color: #a650e3; /* Cor roxa */
+  font-family: 'Times New Roman', serif;
+  font-weight: 400; /* Altere o peso da fonte conforme necessário */
+  font-size: 1.4em; /* Tamanho da fonte, ajuste como preferir */
+}
+
+.content {
+  margin-top: 20px; /* Espaço entre o cabeçalho e o conteúdo */
+}
+
+section {
+  background: white;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333; /* Cor do título */
+}
+
+.about, .projects, .certifications, .experience, .resume {
+  border-left: 5px solid #6a0dad; /* Purple */
+}
+
+@media (max-width: 600px) {
+  .portfolio {
+    padding: 10px;
+  }
+}

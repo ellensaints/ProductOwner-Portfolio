@@ -1,0 +1,15 @@
+.icon {
+    color: #d5a6e8; /* Cor roxa clara */
+    font-size: 1.2em; /* Ajuste o tamanho conforme necessário */
+  }
+  
+
+  .projects a {
+    color: #6a0dad; /* Cor do link */
+    text-decoration: none; /* Remove o sublinhado */
+  }
+  
+  .projects a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+  }
+  
