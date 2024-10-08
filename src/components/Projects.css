@@ -1,15 +1,36 @@
-.icon {
-    color: #d5a6e8; /* Cor roxa clara */
-    font-size: 1.2em; /* Ajuste o tamanho conforme necessário */
-  }
-  
+.projects {
+  margin: 20px 0;
+}
 
-  .projects a {
-    color: #6a0dad; /* Cor do link */
-    text-decoration: none; /* Remove o sublinhado */
-  }
-  
-  .projects a:hover {
-    text-decoration: underline; /* Sublinha ao passar o mouse */
-  }
-  
+.project-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centraliza os cards horizontalmente */
+}
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 20px; /* Aumenta a margem para maior espaçamento entre os cards */
+  width: calc(30% - 20px); /* Ajusta a largura para acomodar a nova margem */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #007bff;
+}

@@ -27,7 +27,7 @@ function Resume() {
             👩🏽‍💻 LinkedIn: <a href="https://www.linkedin.com/in/ellensaints/" target="_blank" rel="noopener noreferrer">ellensaints</a>
           </p>
           <br />
-          📄 <a href="seu_curriculo.pdf" download>Baixar Currículo</a>
+          📄 <a href="ellen-ProductOwner-cv.pdf" download>Baixar Currículo</a>
           <div className="contact-info" style={{ marginTop: '20px' }}>
             <p style={{ fontStyle: 'italic', marginTop: '10px' }}>
               Vamos tomar um café e conversar ☕.<br></br>
