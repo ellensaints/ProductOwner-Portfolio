@@ -14,7 +14,7 @@ body {
 .header {
   background-image: url('image.jpeg'); /* Substitua pelo caminho da imagem de fundo */
   background-size: cover;
-  color: rgb(23, 79, 163);
+  color: rgb(51, 23, 163);
   padding: 40px 0;
   display: flex; /* Alinha os itens em linha */
   align-items: center; /* Alinha verticalmente */
@@ -41,10 +41,10 @@ h1 {
 
 h3 {
   margin: 5px 0; /* Espaçamento acima e abaixo */
-  color: #a650e3; /* Cor roxa */
-  font-family: 'Times New Roman', serif;
+  color: #450970; /* Cor roxa */
+  font-family: 'Tahoma'imes New Ro, serif;
   font-weight: 400; /* Altere o peso da fonte conforme necessário */
-  font-size: 1.4em; /* Tamanho da fonte, ajuste como preferir */
+  font-size: 1.3em; /* Tamanho da fonte, ajuste como preferir */
 }
 
 .content {

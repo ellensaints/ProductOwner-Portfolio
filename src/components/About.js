@@ -21,7 +21,7 @@ function About() {
       {isOpen && (
         <div>
           <p>
-            Atuando na tecnologia desde 2013, sou formada em Sistemas de Informação, com especializações em Gerenciamento Ágil de Projetos e Docência. 👩🏽‍💻
+            Atuando na tecnologia desde 2013, sou formada em Sistemas de Informação, com especializações em Gerenciamento Ágil de Projetos. 👩🏽‍💻
           </p>
           <p>
             Atualmente, como Product Owner, minhas principais atividades incluem:
