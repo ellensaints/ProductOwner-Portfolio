@@ -37,7 +37,7 @@ function Certifications() {
 
           <li>
             <a href="https://gerarcertificado.com.br/validar.php?cert=d49cc2d60527e9c54ea2dba42ed23382" target="_blank" rel="noopener noreferrer">
-              <img src="/logo-pm3.jpg" alt="Certificado 1" className="certification-image" />
+              <img src="./logo-pm3.jpg" alt="Certificado 1" className="certification-image" />
               <h3>Especialista em Produto</h3></a>
               <p>Capacitada para otimizar cada etapa </p>
               <p>do ciclo de vida do produto.</p>
