@@ -42,13 +42,6 @@ function Certifications() {
               <p>Capacitada para otimizar cada etapa </p>
               <p>do ciclo de vida do produto.</p>
           </li>
-          <li>
-            <a href="https://gerarcertificado.com.br/validar.php?cert=6c71f5f54d3a8d6e50470fe99c085047" target="_blank" rel="noopener noreferrer">
-              <img src="/logo-pm3.jpg" alt="Certificado 2" className="certification-image" />
-              <h3>Product Management</h3></a>
-              <p>Gerenciamento Eficaz:</p>
-              <p>Dominando o Ciclo de Vida do Produto</p>
-          </li>
         </ul>
       )}
     </section>
