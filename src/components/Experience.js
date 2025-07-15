@@ -25,7 +25,7 @@ function Experience() {
             <div className="experience-details">
               <h3>Product Owner</h3>
               <p>Agile Connect</p>
-              <p>nov de 2023 - o momento | Curitiba, Paraná, Brasil</p>
+              <p>nov de 2023 - até o momento | Curitiba, Paraná, Brasil</p>
               <p>
                 Responsável pelo rollout de novos produtos e funcionalidades, organizando e priorizando o backlog da equipe de Desenvolvimento.
                 Ritos Ágeis: conduzo as cerimônias de daily stand-up, planejamento de sprint, revisão de sprint e retrospectiva de projeto.
@@ -61,7 +61,7 @@ function Experience() {
             <div className="experience-details">
               <h3>Instrutora de Programação</h3>
               <p>Trybe</p>
-              <p>jun de 2021 - jun de 2023 | Minas Gerais, Brasil</p>
+              <p>jun de 2021 - jul de 2023 |2 anos e 1 mês Minas Gerais, Brasil</p>
               <p>
                 Como Instrutora de Desenvolvimento Web, tive o privilégio de ensinar e orientar estudantes em uma ampla variedade de domínios técnicos.
                 Minha atividades diárias incluíram: Domínio de comandos Linux, GitHub, HTML5, CSS, JavaScript, APIs, Flexbox, Testes Unitários, entre outros.
@@ -79,7 +79,7 @@ function Experience() {
             <div className="experience-details">
               <h3>Desenvolvedora | Suporte Técnico</h3>
               <p>Andrade Gutierrez S.A.</p>
-              <p>set de 2019 - mar de 2021 | Rio de Janeiro e Região, Brasil</p>
+              <p>set de 2019 - abr de 2021 |1 ano e 7 meses | Rio de Janeiro e Região, Brasil</p>
               <p>
                 Acompanhamento das atividades diárias do setor, treinamento e desenvolvimento contínuo de sistemas para o Comissionamento.
                 🔹 Desenvolvimento do Sistema Gerenciador de E-mail - Desenvolvido na IDE Spring Tool Suite, utilizando Java como linguagem de back-end e banco de dados SQLServer.
@@ -96,7 +96,7 @@ function Experience() {
             <div className="experience-details">
               <h3>Instrutora de Informática</h3>
               <p>Cedaspy</p>
-              <p>dez de 2016 - ago de 2019 | Manaus e Região, Brasil</p>
+              <p>dez de 2016 - ago de 2019 | 2 anos e 9 meses | Manaus e Região, Brasil</p>
               <p>
                 Planejamento e desenvolvimento de estratégias educacionais voltadas para a qualificação profissional de jovens, fornecendo orientação especializada nas técnicas relevantes para cada módulo.
                 📚 Elaboração de material pedagógico personalizado.
