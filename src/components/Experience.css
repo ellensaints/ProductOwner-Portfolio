@@ -17,7 +17,7 @@
 
 .experience-item {
   display: flex;
-  align-items: center;
+  align-items: flex-start;;
   margin-bottom: 20px; /* Espaçamento entre experiências */
 }
 
