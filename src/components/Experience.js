@@ -21,7 +21,7 @@ function Experience() {
       {isOpen && (
         <ul className="experience-list">
           <li className="experience-item">
-            <img src="/agile.png" alt="Agile Connect" className="company-logo" />
+            <img src="./agile.png" alt="Agile Connect" className="company-logo" />
             <div className="experience-details">
               <h3>Product Owner</h3>
               <p>Agile Connect</p>
@@ -37,7 +37,7 @@ function Experience() {
           </li>
 
           <li className="experience-item">
-            <img src="/trybe.png" alt="Trybe" className="company-logo" />
+            <img src="./trybe.png" alt="Trybe" className="company-logo" />
             <div className="experience-details">
               <h3>Instrutora de Programação</h3>
               <p>Trybe</p>
@@ -55,7 +55,7 @@ function Experience() {
           </li>
 
           <li className="experience-item">
-            <img src="/ag.png" alt="Andrade Gutierrez" className="company-logo" />
+            <img src="./ag.png" alt="Andrade Gutierrez" className="company-logo" />
             <div className="experience-details">
               <h3>Desenvolvedora | Suporte Técnico</h3>
               <p>Andrade Gutierrez S.A.</p>
@@ -72,7 +72,7 @@ function Experience() {
           </li>
 
           <li className="experience-item">
-            <img src="/cps.png" alt="Cedaspy" className="company-logo" />
+            <img src="./cps.png" alt="Cedaspy" className="company-logo" />
             <div className="experience-details">
               <h3>Instrutora de Informática</h3>
               <p>Cedaspy</p>

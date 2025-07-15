@@ -33,7 +33,7 @@ function Resume() {
               Vamos tomar um café e conversar ☕.<br></br>
               Conexões são oportunidades disfarçadas. Vamos construir juntos! 🌟
 
-
+🌐 Esta página foi totalmente desenvolvida por mim, utilizando as tecnologias HTML, CSS, JavaScript e React. ❤️
             </p>
           </div>
         </>
