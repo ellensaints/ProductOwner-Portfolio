@@ -33,6 +33,25 @@ function Experience() {
                 Gestão de produto: tenho contato direto com clientes para coleta de requisitos e definição de regras de negócio, da concepção à entrega.
                 Colaboração: aproximação e vivência diária com times de desenvolvimento e design para alinhar entregas aos objetivos do cliente.
               </p>
+              <br></br>
+              <p>
+                🛠️ Responsável por:
+                • Apoiar na construção e desenvolvimento de funcionalidades.
+                • Facilitar esclarecimentos e discussões entre as equipes envolvidas.
+                • Participar na tomada decisões estratégicas e definição de caminhos a seguir.
+                • Revisar desenho de processos operacionais e de negócio.
+                • Testes e suporte às implantações além de acompanhar usabilidade do sistema.
+                • Gerar e monitorar indicadores de desempenho.
+                • Reunir e validar requisitos em reuniões com stakeholders.
+              </p>
+              <br></br>
+              🎯 Qualificações atuais:
+              • Experiência com análise de sistemas, mapeamento de processos e suporte à área de tecnologia.
+              • Comunicação clara e objetiva com áreas de negócio e equipes técnicas.
+              • Perfil analítico, com foco em resolução de problemas e atenção a detalhes.
+              • Organização para documentação de requisitos e decisões de projeto.
+              • Boa oratória e capacidade de argumentação.
+
               <p>Competências: Gestão de produtos, Descoberta de produtos, Lançamento de produtos, Levantamento de requisitos, Gestão do ciclo de vida do produto, Gerenciamento de backlog.</p>
             </div>
           </li>
