@@ -32,9 +32,11 @@ function Resume() {
             <p style={{ fontStyle: 'italic', marginTop: '10px' }}>
               Vamos tomar um café e conversar ☕.<br></br>
               Conexões são oportunidades disfarçadas. Vamos construir juntos! 🌟
-
-🌐 Esta página foi totalmente desenvolvida por mim, utilizando as tecnologias HTML, CSS, JavaScript e React. ❤️
             </p>
+          </div>
+          <div>
+            <br></br>
+            🌐 Esta página foi totalmente desenvolvida por mim, utilizando as tecnologias HTML, CSS, JavaScript e React. ❤️
           </div>
         </>
       )}
