@@ -11,8 +11,8 @@ function Experience() {
 
   return (
     <section className="experience">
-      <h2 
-        onClick={toggleOpen} 
+      <h2
+        onClick={toggleOpen}
         style={{ cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
       >
         Experiência Profissional
@@ -27,10 +27,11 @@ function Experience() {
               <p>Agile Connect</p>
               <p>nov de 2023 - o momento | Curitiba, Paraná, Brasil</p>
               <p>
-                Responsável pelo rollout de novos produtos e funcionalidades: organizo e priorizo o backlog de atividades da equipe de Desenvolvimento. 
-                Realizo o levantamento e análise dos esforços necessários, além de criar e manter relatórios no Power BI 📊 para garantir estimativas precisas em todas as fases do projeto.
-                🤝 Gestão de produtos: mantenho contato direto com os clientes para coleta de requisitos e especificação de regras de negócios, atuando desde a concepção até o lançamento do produto. 
-                Colaboro estreitamente com as equipes de desenvolvimento e design 🎨 para assegurar que as entregas atendam às necessidades dos clientes e aos objetivos do negócio.
+                Responsável pelo rollout de novos produtos e funcionalidades, organizando e priorizando o backlog da equipe de Desenvolvimento.
+                Ritos Ágeis: conduzo as cerimônias de daily stand-up, planejamento de sprint, revisão de sprint e retrospectiva de projeto.
+                Dados: Levanto análise de esforços, além de criação e manutenção de relatórios no Power BI garantindo estimativas precisas.
+                Gestão de produto: tenho contato direto com clientes para coleta de requisitos e definição de regras de negócio, da concepção à entrega.
+                Colaboração: aproximação e vivência diária com times de desenvolvimento e design para alinhar entregas aos objetivos do cliente.
               </p>
               <p>Competências: Gestão de produtos, Descoberta de produtos, Lançamento de produtos, Levantamento de requisitos, Gestão do ciclo de vida do produto, Gerenciamento de backlog.</p>
             </div>
