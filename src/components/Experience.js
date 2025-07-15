@@ -61,7 +61,7 @@ function Experience() {
             <div className="experience-details">
               <h3>Instrutora de Programação</h3>
               <p>Trybe</p>
-              <p>jun de 2021 - jul de 2023 |2 anos e 1 mês Minas Gerais, Brasil</p>
+              <p>jun de 2021 - jul de 2023 | 2 anos e 1 mês | Minas Gerais, Brasil</p>
               <p>
                 Como Instrutora de Desenvolvimento Web, tive o privilégio de ensinar e orientar estudantes em uma ampla variedade de domínios técnicos.
                 Minha atividades diárias incluíram: Domínio de comandos Linux, GitHub, HTML5, CSS, JavaScript, APIs, Flexbox, Testes Unitários, entre outros.
@@ -79,7 +79,7 @@ function Experience() {
             <div className="experience-details">
               <h3>Desenvolvedora | Suporte Técnico</h3>
               <p>Andrade Gutierrez S.A.</p>
-              <p>set de 2019 - abr de 2021 |1 ano e 7 meses | Rio de Janeiro e Região, Brasil</p>
+              <p>set de 2019 - abr de 2021 | 1 ano e 7 meses | Rio de Janeiro e Região, Brasil</p>
               <p>
                 Acompanhamento das atividades diárias do setor, treinamento e desenvolvimento contínuo de sistemas para o Comissionamento.
                 🔹 Desenvolvimento do Sistema Gerenciador de E-mail - Desenvolvido na IDE Spring Tool Suite, utilizando Java como linguagem de back-end e banco de dados SQLServer.
