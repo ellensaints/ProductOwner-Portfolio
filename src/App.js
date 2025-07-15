@@ -1,6 +1,6 @@
 import React from 'react';
 import './components/Portfolio.css'; // Certifique-se de que o caminho está correto
-import ellenImg from './ellen.jpeg'; // Importa a imagem
+import ellenImg from './ellen.jpeg'; 
 import About from './components/About';
 import Projects from './components/Projects';
 import Certifications from './components/Certifications';
